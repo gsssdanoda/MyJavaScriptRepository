@@ -1,0 +1,2 @@
+# MyJavaScriptRepository
+Practice JavaScript 
